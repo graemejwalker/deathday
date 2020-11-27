@@ -5,13 +5,16 @@ body, html {
 body {
   background-color: black;
   color:white;
-  font-family: 'Rubik', serif;
+  font-family: 'Lato', sans-serif;
 }
 
 img {
   width:100%;height:auto;
 }
 #homeimg {height: 100%;
+  font-family: 'Playfair Display', serif;
+  font-size: 6em;
+  text-align: center;
   background-image: url("World-Death-Day.jpg");no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
