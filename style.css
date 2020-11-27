@@ -9,8 +9,8 @@ body {
 }
 
 img {
-  width:100%;
+  width:100%;height:auto;
 }
 #homeimg {height: 100%;
-  background-image: image("World-Death-Day.jpg");
+  background-image: url("World-Death-Day.jpg");
 }
